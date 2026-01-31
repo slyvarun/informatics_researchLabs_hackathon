@@ -1,6 +1,3 @@
-﻿# informatics_researchLabs_hackathon
-
-# informatics_researchLabs_hackathon
 # Informatics ResearchLabs Hackathon
 
 ## Project Overview
@@ -33,3 +30,4 @@ This repository contains the Jupyter Notebook submitted for the Informatics Rese
 Acknowledgement
 
 I sincerely thank Informatics ResearchLabs for this wonderful opportunity to participate in the hackathon. It was a great learning experience, and I truly appreciate the chance to showcase my skills.
+
